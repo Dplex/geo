@@ -1,0 +1,26 @@
+{
+  "name": "vue-geo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "0.9.67",
+    "@vue-leaflet/vue-leaflet": "^0.6.1",
+    "axios": "^1.2.0",
+    "leaflet": "^1.9.3",
+    "vue": "3.2.20",
+    "vue3-leaflet": "^1.0.43"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
